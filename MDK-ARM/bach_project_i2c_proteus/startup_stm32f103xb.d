@@ -1,0 +1,1 @@
+bach_project_i2c_proteus\startup_stm32f103xb.o: startup_stm32f103xb.s
