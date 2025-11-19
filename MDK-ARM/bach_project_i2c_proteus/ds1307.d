@@ -1,6 +1,6 @@
 bach_project_i2c_proteus\ds1307.o: ..\DS1307\ds1307.c
 bach_project_i2c_proteus\ds1307.o: ..\DS1307\ds1307.h
-bach_project_i2c_proteus\ds1307.o: ../I2C/i2c.h
+bach_project_i2c_proteus\ds1307.o: ..\I2C\i2c.h
 bach_project_i2c_proteus\ds1307.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 bach_project_i2c_proteus\ds1307.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
 bach_project_i2c_proteus\ds1307.o: ../Drivers/CMSIS/Include/core_cm3.h

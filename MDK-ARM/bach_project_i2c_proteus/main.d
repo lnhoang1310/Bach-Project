@@ -29,7 +29,7 @@ bach_project_i2c_proteus\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_h
 bach_project_i2c_proteus\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
 bach_project_i2c_proteus\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 bach_project_i2c_proteus\main.o: ../LCD_I2C_SOFT/lcd_soft_i2c.h
-bach_project_i2c_proteus\main.o: ../I2C/i2c.h
+bach_project_i2c_proteus\main.o: ..\I2C\i2c.h
 bach_project_i2c_proteus\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 bach_project_i2c_proteus\main.o: ../DS1307/ds1307.h
 bach_project_i2c_proteus\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
