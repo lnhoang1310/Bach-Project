@@ -1,6 +1,6 @@
 bach_project_i2c_proteus\lcd_soft_i2c.o: ..\LCD_I2C_SOFT\lcd_soft_i2c.c
 bach_project_i2c_proteus\lcd_soft_i2c.o: ..\LCD_I2C_SOFT\lcd_soft_i2c.h
-bach_project_i2c_proteus\lcd_soft_i2c.o: ../../Ros_FPT_Project/I2C/i2c.h
+bach_project_i2c_proteus\lcd_soft_i2c.o: ../I2C/i2c.h
 bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
 bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/CMSIS/Include/core_cm3.h
@@ -23,11 +23,10 @@ bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm
 bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
 bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
 bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
-bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
-bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
 bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
 bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
-bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+bach_project_i2c_proteus\lcd_soft_i2c.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 bach_project_i2c_proteus\lcd_soft_i2c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

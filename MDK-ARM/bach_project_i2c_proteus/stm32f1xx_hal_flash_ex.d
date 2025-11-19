@@ -21,10 +21,9 @@ bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driv
 bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
 bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
 bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
-bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
-bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
 bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
 bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
-bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+bach_project_i2c_proteus\stm32f1xx_hal_flash_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
